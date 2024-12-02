@@ -219,3 +219,40 @@ nav{
   color: grey;
   font-family: "Parkinsans", sans-serif;
 }
+
+.About{
+  width: 100%;
+  display:inline;
+  float: inline-start;
+}
+
+.COLUMN01{
+  font-family: "New Rocker", system-ui;
+  color: crimson;
+  width: 50%;
+  display: inline;
+  float: left;
+  text-align: left;
+}
+
+.COLUMN01 p{
+  color: grey;
+  font-family: "Parkinsans", sans-serif;
+}
+
+.COLUMN02{
+  font-family: "New Rocker", system-ui;
+  color: crimson;
+  width: 50%;
+  display: inline;
+  float: left;
+  text-align: center;
+}
+
+.COLUMN02 ul{
+  list-style-type: square;
+  color: grey;
+  font-family: "Parkinsans", sans-serif;
+  font-weight: bold;
+  text-align: left;
+}
