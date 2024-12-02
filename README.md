@@ -1,23 +1,43 @@
-# About Velvet Vine & Co. & This Repository
+# 💮 Velvet Vine & Co. 💮
 
-## Velvet Vine & Co. Shop Site
+"Velvet Vine & Co." is a clothing brand first formed in 2021 by Sage but later then picked back up in 2024 by Sage. "Velvet Vine & Co." Is an OPEN SOURCE clothing brand website! with Handmade Crochet wearables & Custum sewn clothes by Sage.
+## 💻 Tech Stack 💻
 
-This is the Offical website for my sewing & crochet apparel brand! This site is an All-In-One site for shopping, modeling, & more. (Mostly shopping though, hehe)
+***IDE:*** 
 
-## What is "Velvet Vine & Co."?
+- Visual Studio Code
 
-Velvet Vine & Co. Is a small Business owned & operated by Darleen! Darleen has a passion for designing & making clothing. She is currently taking custom orders along as making her own wardrobe!
 
-## Velvet Vine & Co. Motto
+***Server(s):*** 
 
-Where The Cottage Folk & Rockers Come Together
+- GitHub Pages
 
-![https://ibb.co/ySWDWfx](https://i.ibb.co/ySWDWfx/LOGO.jpg)
 
-## Support
+***Languages Used:*** 
 
-For support use **ONE** of the following options. 
+- HTML
+- CSS
+- JS
 
-1. text +1 (910)-601-0269
-2. Message our [Facebook](https://www.facebook.com/velvetvineco)
 
+***Productivity Apps:*** 
+
+- Spotify
+- Notion
+- GitHub
+- WakaTime
+## 📖 Support 📖
+
+For support, email me! darleenafairy33@myyahoo.com
+
+## 📛 Badges 📛
+
+[![Owner](https://badgen.net/badge/Owner/Sage/red)](#)
+
+[![MIT License](https://badgen.net/badge/Licencing/MIT/orange)](https://choosealicense.com/licenses/mit/)
+
+[![Version](https://badgen.net/badge/Version/0.2.1/yellow
+)](#)
+
+[![Contributors](https://badgen.net/badge/Contributors/1/green
+)](#)
