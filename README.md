@@ -28,7 +28,7 @@
 - WakaTime
 ## 📖 Support 📖
 
-For support, email me! darleenafairy33@myyahoo.com
+For support, email me! SageAdmin@thevines.shop
 
 ## 📛 Badges 📛
 
