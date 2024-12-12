@@ -194,6 +194,13 @@ nav{
   width: 100%;
 }
 
+.product-row-2{
+  display:inline;
+  float: inline-start;
+  text-align: center;
+  width: 100%;
+}
+
 .PRODUCT1{
   width:20%;
   display:inline-block;
