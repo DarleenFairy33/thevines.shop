@@ -282,3 +282,34 @@ nav{
   font-size: 25px;
   font-family: "New Rocker", system-ui;
 }
+
+.TXTS4{
+  font-family: "New Rocker", system-ui;
+  color: crimson;
+  text-align: center;
+}
+
+.TEXT-IMAGES-1 h2{
+  font-family: "New Rocker", system-ui;
+  color: crimson;
+  text-align: center;
+}
+
+.TEXT-IMAGES-2 h2{
+  font-family: "New Rocker", system-ui;
+  color: crimson;
+  text-align: center;
+}
+
+.TEXT-IMAGES-1 img{
+  margin-left: 42.5%;
+}
+
+.TEXT-IMAGES-2 img{
+  margin-left: 42.5%;
+}
+
+.EMAIL-ME-BTN-2{
+  margin-left: 42.5%;
+  margin-right: 50% 
+}
