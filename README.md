@@ -29,15 +29,3 @@
 ## 📖 Support 📖
 
 For support, email me! darleenfairy33@myyahoo.com
-
-## 📛 Badges 📛
-
-[![Owner](https://badgen.net/badge/Owner/Sage/red)](#)
-
-[![MIT License](https://badgen.net/badge/Licencing/MIT/orange)](https://choosealicense.com/licenses/mit/)
-
-[![Version](https://badgen.net/badge/Version/0.2.1/yellow
-)](#)
-
-[![Contributors](https://badgen.net/badge/Contributors/1/green
-)](#)
