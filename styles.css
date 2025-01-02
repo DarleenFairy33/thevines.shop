@@ -319,3 +319,10 @@ nav{
   font-family: "New Rocker", system-ui;
   text-align: center;
 }
+
+.product-row-3{
+  display:inline;
+  float: inline-start;
+  text-align: center;
+  width: 100%;
+}
